@@ -19,19 +19,19 @@ Machine learning shouldn't be a black box. Understanding where traffic comes fro
 
 Most baseline impressions originate from the home feed, representing reach from existing followers.
 
-![Distribution of Impressions From Home](<images/Screenshot 2026-08-09 001328.png>)
+![Distribution of Impressions From Home](<Screenshot 2026-08-09 001328.png>)
 
 ### 2. The Hashtag Catalyst
 
 Hashtag reach exhibits a right-skewed distribution, indicating that successful hashtag optimization can significantly increase visibility beyond the core audience.
 
-![Distribution of Impressions From Hashtags](<images/Screenshot 2026-08-09 001340.png>)
+![Distribution of Impressions From Hashtags](<Screenshot 2026-08-09 001340.png>)
 
 ### 3. The Explore Page Jackpot
 
 Explore reach shows substantial variation, highlighting the potential of Explore distribution to drive large increases in impressions.
 
-![Distribution of Impressions From Explore](<images/Screenshot 2026-08-09 001352.png>)
+![Distribution of Impressions From Explore](<Screenshot 2026-08-09 001352.png>)
 
 ---
 
